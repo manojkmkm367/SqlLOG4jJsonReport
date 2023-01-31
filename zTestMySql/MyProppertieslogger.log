@@ -1,0 +1,4 @@
+2022-08-06 20:32:00 INFO  Log4jtestingExample : 14 - Info Message
+2022-08-06 20:32:00 WARN  Log4jtestingExample : 15 - Warm Messege
+2022-08-06 20:32:00 ERROR Log4jtestingExample : 16 - Error Message
+2022-08-06 20:32:00 FATAL Log4jtestingExample : 17 - Fatal Message

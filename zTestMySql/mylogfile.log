@@ -1,0 +1,12 @@
+2022-08-04 20:17:24 INFO  Log4jtestingExample:15 - Info Message
+2022-08-04 20:17:24 WARN  Log4jtestingExample:16 - Warm Messege
+2022-08-04 20:17:24 ERROR Log4jtestingExample:17 - Error Message
+2022-08-04 20:17:24 FATAL Log4jtestingExample:18 - Fatal Message
+2022-08-04 20:18:34 INFO  Log4jtestingExample:15 - Info Message
+2022-08-04 20:18:34 WARN  Log4jtestingExample:16 - Warm Messege
+2022-08-04 20:18:34 ERROR Log4jtestingExample:17 - Error Message
+2022-08-04 20:18:34 FATAL Log4jtestingExample:18 - Fatal Message
+2022-08-04 20:19:45 INFO  Log4jtestingExample:15 - Info Message
+2022-08-04 20:19:45 WARN  Log4jtestingExample:16 - Warm Messege
+2022-08-04 20:19:45 ERROR Log4jtestingExample:17 - Error Message
+2022-08-04 20:19:45 FATAL Log4jtestingExample:18 - Fatal Message
